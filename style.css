@@ -1,0 +1,19 @@
+video{
+    position: relative;
+    bottom: 60px;
+    background: transparent transparent;
+}
+audio{
+    position: relative;
+    bottom: 40px;
+}
+body{
+    background-image: url(./dairymilk.jpg);
+    
+}
+h1{
+    color:darkmagenta;
+}
+body{
+    
+}
